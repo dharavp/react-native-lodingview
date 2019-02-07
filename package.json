@@ -1,0 +1,15 @@
+{
+  "name": "react-native-loadingview",
+  "version": "1.0.0",
+  "description": "React-native loading view",
+  "main": "index.js",
+  "author": "Dhara Patel <pateldhara248@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  },
+  "dependencies": {
+    "babel-preset-react-native": "^4.0.1"
+  }
+}
