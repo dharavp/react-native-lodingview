@@ -11,5 +11,21 @@
   },
   "dependencies": {
     "babel-preset-react-native": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharavp/react-native-lodingview.git"
+  },
+  "keywords": [
+    "loadingview",
+    "react-native"
+  ],
+  "bugs": {
+    "url": "https://github.com/dharavp/react-native-lodingview/issues"
+  },
+  "homepage": "https://github.com/dharavp/react-native-lodingview#readme"
 }
